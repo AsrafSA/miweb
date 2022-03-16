@@ -1,1 +1,3 @@
-cambiando cositas master
+
+removemos cosas
+>>>>>>> ramanueva
